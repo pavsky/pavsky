@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+### 📫 How to reach me:
+hello@betkowski.co.uk
+
+### 😄 Pronouns: 
+He/Him
+
+###  🔭 I’m currently working on:
+Spicy.css - Minimalist CSS framework
+
+### :open_book: Currently reading:
+[When Things Fall Apart by Pema Chödrön](https://www.goodreads.com/book/show/687278.When_Things_Fall_Apart)
+
+### 💬 Ask me about:
+UX, Product, Mindfulness, Bad jokes
 <!--
 **pavsky/pavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
