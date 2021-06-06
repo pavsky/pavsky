@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile picture](https://media-exp1.licdn.com/dms/image/C4E03AQECc26UMH3KiQ/profile-displayphoto-shrink_800_800/0/1622370918624?e=1628726400&v=beta&t=3wVfMC75eV1ALouUIgckx9rCE-LptZl77WZg3AsYal0)
+
 ### 📫 How to reach me:
 hello@betkowski.co.uk
 
