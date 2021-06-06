@@ -14,7 +14,7 @@ UX, Product, Mindfulness, Bad jokes
 Spicy.css - Minimalist CSS framework
 
 ### Links:
-[My Music on Soundcloud](https://soundcloud.com/betkowski)
+[My Music on Soundcloud](https://soundcloud.com/betkowski), 
 [Portfolio](http://pavsky.netlify.app)
 
 <!--
