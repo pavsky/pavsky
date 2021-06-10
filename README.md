@@ -5,8 +5,8 @@ hello@betkowski.co.uk
 He/Him
 
 ### :open_book: Currently reading:
-[When Things Fall Apart by Pema Chödrön](https://www.goodreads.com/book/show/687278.When_Things_Fall_Apart)
-[Sapiens by Yuval Noah Harare](https://en.m.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
+- [When Things Fall Apart by Pema Chödrön](https://www.goodreads.com/book/show/687278.When_Things_Fall_Apart)
+- [Sapiens by Yuval Noah Harare](https://en.m.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
 
 ### 💬 Ask me about
 UX, Product, Mindfulness, Bad jokes
