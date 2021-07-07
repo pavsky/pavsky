@@ -2,7 +2,7 @@
 
 😄 Pronouns: He/Him
 
-Links: [My Music on Soundcloud](https://soundcloud.com/betkowski), [Portfolio](http://pavsky.netlify.app)
+🔭 Links: [My Music on Soundcloud](https://soundcloud.com/betkowski), [Portfolio](http://pavsky.netlify.app)
 
 <!--
 **pavsky/pavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
