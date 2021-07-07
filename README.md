@@ -1,22 +1,9 @@
 ### 📫 How to reach me:
 hello@betkowski.co.uk
 
-### 😄 Pronouns: 
-He/Him
+😄 Pronouns: He/Him
 
-### :open_book: Currently reading:
-- [When Things Fall Apart by Pema Chödrön](https://www.goodreads.com/book/show/687278.When_Things_Fall_Apart)
-- [Sapiens by Yuval Noah Harari](https://en.m.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
-
-### 💬 Ask me about
-UX, Product, Mindfulness, Bad jokes
-
-###  🔭 I’m currently working on:
-Spicy.css - Minimalist CSS framework
-
-### Links:
-[My Music on Soundcloud](https://soundcloud.com/betkowski), 
-[Portfolio](http://pavsky.netlify.app)
+Links: [My Music on Soundcloud](https://soundcloud.com/betkowski), [Portfolio](http://pavsky.netlify.app)
 
 <!--
 **pavsky/pavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
