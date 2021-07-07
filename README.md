@@ -1,5 +1,4 @@
-### 📫 How to reach me:
-hello@betkowski.co.uk
+📫 How to reach me: hello@betkowski.co.uk
 
 😄 Pronouns: He/Him
 
