@@ -1,8 +1,4 @@
-📫 How to reach me: hello@betkowski.co.uk
-
-😄 Pronouns: He/Him
-
-🔭 Links: [Really Cool Product Company](http://reallycoolproductcompany.com)
+📫 How to reach me: hello@thisisnotforeveryone.co.uk
 
 <!--
 **pavsky/pavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
